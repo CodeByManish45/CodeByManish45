@@ -1,23 +1,23 @@
-<!-- Attractive Animated Header -->
+<!-- Blue Black Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Manish%20Kumar&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:00FFFF,100:FF00FF&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Manish%20Kumar&fontAlign=50&fontAlignY=40&color=0:000000,100:0A66FF&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hey 👋 I'm Manish</h1>
+<h1 align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Creative+Web+Developer;Open+Source+Lover;Always+Learning+New+Things"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Manish;Welcome+to+my+GitHub+Profile;Web+Developer;Always+Learning+New+Things"/>
+
+</h1>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-✨ Passionate **Web Developer**  
-💻 Love building **cool projects**  
-📚 Currently learning **Full Stack Development**  
-⚡ Fun fact: *Console.log is my best friend* 😄  
+- 🌱 Currently learning **Web Development**
+- 💻 Love building **cool projects**
+- 🚀 Interested in **Full Stack Development**
+- ⚡ Fun fact: **console.log fixes everything 😄**
 
 ---
 
@@ -26,27 +26,25 @@
 <p align="center">
 
 <a href="https://instagram.com/pvtt.manish45">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,mysql"/>
 </p>
 
 ---
@@ -55,9 +53,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=radical&border_radius=20"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=radical&border_radius=20"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -66,15 +64,15 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=CodeByManish45&theme=radical&border_radius=20"/>
+<img src="https://streak-stats.demolab.com/?user=CodeByManish45&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CodeByManish45&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CodeByManish45&theme=algolia"/>
 </p>
 
 ---
@@ -90,19 +88,19 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile%20Views&color=0A66FF&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
 
-💜 **Thanks for visiting my profile**
+⭐️ From **CodeByManish45**
 
 </p>
 
 <!-- Footer -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF00FF,50:00FFFF,100:8A2BE2&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0A66FF&section=footer"/>
 </p>
