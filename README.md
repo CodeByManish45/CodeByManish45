@@ -1,18 +1,16 @@
-<!-- Blue Black Animated Header -->
+<!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Manish%20Kumar&fontAlign=50&fontAlignY=40&color=0:000000,100:0A66FF&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Manish&fontAlign=50&fontAlignY=40&color=0:000000,100:007BFF&fontColor=ffffff&fontSize=45"/>
 </p>
 
 <h1 align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Manish;Welcome+to+my+GitHub+Profile;Web+Developer;Always+Learning+New+Things"/>
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Manish;Welcome+to+my+GitHub+Profile;Web+Developer;Always+Learning+New+Things"/>
 </h1>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌱 Currently learning **Web Development**
 - 💻 Love building **cool projects**
@@ -21,7 +19,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -41,7 +39,7 @@
 
 ---
 
-# 🛠 Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,mysql"/>
@@ -49,58 +47,48 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=CodeByManish45&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CodeByManish45&theme=algolia"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CodeByManish45&theme=algolia&no-frame=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 👀 Profile Views
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile%20Views&color=0A66FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile+Views&color=007BFF&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
 
-⭐️ From **CodeByManish45**
+⭐️ From **Manish**
 
 </p>
 
-<!-- Footer -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0A66FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:007BFF&section=footer"/>
 </p>
