@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hey+👋+I'm+Manish;Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Things+on+the+Web"/>
 
