@@ -13,7 +13,7 @@ A passionate developer from India focused on building modern web applications.
 ### 👨‍💻 About Me
 
 - 🚀 Currently learning **Full Stack Development**
-- 💻 Love building **real world projects**
+- 💻 Love building **real world products**
 - 🌱 Improving my skills in **JavaScript & Web Technologies**
 - ⚡ Fun fact: *Debugging is like being the detective of your own code*
 
