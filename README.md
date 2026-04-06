@@ -1,88 +1,107 @@
-<h1 align="center"> 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hey+👋+I'm+Manish;Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Things+on+the+Web"/>
-
+<h1 align="center">
+  Hi 👋, I'm Manish Kumar
 </h1>
 
+<h3 align="center">
+  🚀 Full Stack Developer | MERN Stack | Building Scalable Web Apps
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full Stack Developer (MERN Stack)
+- 🚀 Building real-world scalable applications
+- 🌱 Currently learning **Advanced Backend & System Design**
+- 🔥 Passionate about **Problem Solving & Clean Code**
+- ⚡ Fun fact: *Debugging is like solving a mystery 🕵️‍♂️*
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Languages
+- JavaScript (ES6+)
+- TypeScript
+- HTML5, CSS3
+
+### ⚙️ Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Redux Toolkit
+
+### 🔧 Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+- Mongoose
+
+### 🔐 Authentication & Tools
+- JWT
+- bcrypt
+- Git & GitHub
+- Postman
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-A passionate developer from India focused on building modern web applications.
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 📌 Featured Projects
 
-- 🚀 Currently learning **Full Stack Development**
-- 💻 Love building **real world products**
-- 🌱 Improving my skills in **JavaScript & Web Technologies**
-- ⚡ Fun fact: *Debugging is like being the detective of your own code*
+### 🚀 GramSathi (Rural Service Marketplace)
+- Location-based service booking platform
+- Role-based authentication (User / Provider / Admin)
+- Real-time service listing & booking
+
+### 🛒 E-commerce Platform
+- Full-featured shopping website
+- Add to cart, authentication, order system
+- Admin dashboard for product & order management
+
+### 💎 Jewelry Website
+- Premium UI/UX design
+- Product filtering system
+- Fully responsive design
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://instagram.com/pvtt.manish45">
-<img src="https://skillicons.dev/icons?i=instagram" height="35"/>
-</a>
-
-<a href="https://www.linkedin.com/in/manish-kumar-891453327/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-
-<a href="https://twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter" height="35"/>
-</a>
-
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## 🧠 Currently Working On
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,vscode"/>
-
-</p>
+- 🔥 Full Stack Projects (Production Level)
+- ⚡ Backend Optimization & Scaling
+- 📦 Real-time Features (Socket.io)
 
 ---
 
-### 📊 GitHub Stats
+## 💡 Goals
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+- 🚀 Become a **Top Full Stack Developer**
+- 🌍 Work on impactful global products
+- 💰 Land a high-paying developer job
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=CodeByManish45&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodeByManish45&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile+Views&color=0ea5e9&style=flat"/>
-
-</p>
+⭐️ From [Manish](https://github.com/CodeByManish45)
