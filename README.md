@@ -67,7 +67,7 @@ A passionate developer from India focused on building modern web applications.
 ### 📈 3D Contribution Graph
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+<img src="./profile-3d-contrib/profile-gitblock.svg"/>
 </p>
 
 ---
