@@ -42,9 +42,7 @@ A passionate developer from India focused on building modern web applications.
 ### 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,vscode"/>
-
 </p>
 
 ---
@@ -52,11 +50,8 @@ A passionate developer from India focused on building modern web applications.
 ### 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -64,9 +59,15 @@ A passionate developer from India focused on building modern web applications.
 ### 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=CodeByManish45&theme=github-dark-blue&hide_border=true"/>
+</p>
 
+---
+
+### 📈 3D Contribution Graph
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
 
 ---
@@ -74,15 +75,11 @@ A passionate developer from India focused on building modern web applications.
 ### 🏆 Achievements
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=CodeByManish45&theme=algolia&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile+Views&color=0ea5e9&style=flat"/>
-
 </p>
