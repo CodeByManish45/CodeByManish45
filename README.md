@@ -1,90 +1,79 @@
-<h1 align="center">
-  Hi 👋, I'm Manish Kumar
-</h1>
+<h1 align="center">Hi , I'm Manish Kumar</h1>
 
-<h3 align="center">
-  🚀 Full Stack Developer | MERN Stack | Building Scalable Web Apps
-</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Clean Code | Scalable Products</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer (MERN Stack)
-- 🚀 Building real-world scalable applications
+- 💻 Full Stack Developer focused on MERN Stack
+- 🚀 Building real-world scalable web applications
 - 🌱 Currently learning **Advanced Backend & System Design**
-- 🔥 Passionate about **Problem Solving & Clean Code**
-- ⚡ Fun fact: *Debugging is like solving a mystery 🕵️‍♂️*
+- 🔥 Passionate about **problem solving**, **clean architecture**, and **modern UI**
+- ⚡ Fun fact: *Debugging is like solving a mystery*
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧠 Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5, CSS3
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,redux,git,github,postman,vscode&perline=5" alt="tech stack" />
+</p>
 
-### ⚙️ Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Redux Toolkit
+---
 
-### 🔧 Backend
-- Node.js
-- Express.js
+## 🏆 GitHub Trophies
 
-### 🗄️ Database
-- MongoDB
-- Mongoose
-
-### 🔐 Authentication & Tools
-- JWT
-- bcrypt
-- Git & GitHub
-- Postman
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeByManish45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophies" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByManish45
-&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByManish45
-&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 GramSathi (Rural Service Marketplace)
-- Location-based service booking platform
-- Role-based authentication (User / Provider / Admin)
-- Real-time service listing & booking
+### 🚀 GramSathi
+- Location-based rural service marketplace
+- Role-based authentication
+- Real-time booking system
 
 ### 🛒 E-commerce Platform
-- Full-featured shopping website
-- Add to cart, authentication, order system
-- Admin dashboard for product & order management
+- Cart and checkout flow
+- Authentication and order management
+- Admin dashboard
 
 ### 💎 Jewelry Website
-- Premium UI/UX design
-- Product filtering system
-- Fully responsive design
+- Premium UI design
+- Product filtering
+- Responsive layout
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:manishkumar8084332@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -92,17 +81,23 @@
 
 ## 🧠 Currently Working On
 
-- 🔥 Full Stack Projects (Production Level)
-- ⚡ Backend Optimization & Scaling
-- 📦 Real-time Features (Socket.io)
+- 🔥 Production-level full stack projects
+- ⚡ Backend optimization
+- 📦 Real-time features
 
 ---
 
 ## 💡 Goals
 
-- 🚀 Become a **Top Full Stack Developer**
-- 🌍 Work on impactful global products
-- 💰 Land a high-paying developer job
+- 🚀 Become top Full Stack Developer
+- 🌍 Build impactful products
+- 💰 Land strong developer role
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByManish45&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
 
 ---
 
