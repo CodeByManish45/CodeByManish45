@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer focused on MERN Stack
-- 🚀 Building real-world scalable web applications
-- 🌱 Currently learning **Advanced Backend & System Design**
-- 🔥 Passionate about **problem solving**, **clean architecture**, and **modern UI**
-- ⚡ Fun fact: *Debugging is like solving a mystery*
+-  Full Stack Developer focused on MERN Stack
+-  Building real-world scalable web applications
+-  Currently learning **Advanced Backend & System Design**
+-  Passionate about **problem solving**, **clean architecture**, and **modern UI**
+
 
 ---
 
@@ -63,6 +63,7 @@
 - Premium UI design
 - Product filtering
 - Responsive layout
+- Admin dashboard
 
 ---
 
@@ -89,9 +90,9 @@
 
 ## 💡 Goals
 
-- 🚀 Become top Full Stack Developer
-- 🌍 Build impactful products
-- 💰 Land strong developer role
+-  Become top Full Stack Developer
+-  Build impactful products
+-  Land strong developer role
 
 ---
 
