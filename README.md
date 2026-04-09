@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Manish Kumar</h1>
+<h1 align="center">Manish Kumar</h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Clean Code | Scalable Products</h3>
+<h3 align="center"> Full Stack Developer | MERN Stack | Clean Code | Scalable Products</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 -  Full Stack Developer focused on MERN Stack
 -  Building real-world scalable web applications
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,redux,git,github,postman,vscode&perline=5" alt="tech stack" />
@@ -49,7 +49,7 @@
 
 ## 📌 Featured Projects
 
-### 🚀 GramSathi
+###  GramSathi
 - Location-based rural service marketplace
 - Role-based authentication
 - Real-time booking system
