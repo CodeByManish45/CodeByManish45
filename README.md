@@ -42,11 +42,7 @@
     alt="GitHub Stats"
   />
   
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img height="170" src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true&cache_seconds=60&v=1" />
 </p>
 
 <p align="center">
