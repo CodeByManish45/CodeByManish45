@@ -40,7 +40,8 @@
   <img 
     src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true&cache_seconds=60&v=1"
     alt="GitHub Streak"
-    width="700"
+    height="400"
+    width="800"
   />
 </p>
 
