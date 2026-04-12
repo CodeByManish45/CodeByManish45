@@ -32,7 +32,7 @@
   <img
     src="https://github-readme-stats-ten-kappa-91.vercel.app/api?username=CodeByManish45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"
     alt="GitHub Stats"
-    width="700"
+    width="800"
   />
 </p>
 
@@ -40,7 +40,6 @@
   <img 
     src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true&cache_seconds=60&v=1"
     alt="GitHub Streak"
-    height="400"
     width="800"
   />
 </p>
@@ -49,7 +48,7 @@
   <img
     src="https://github-readme-stats-ten-kappa-91.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Top Languages"
-    width="600"
+    width="800"
   />
 </p>
 
