@@ -40,7 +40,7 @@
   <img
     src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true&cache_seconds=60&v=1"
     alt="GitHub Streak"
-    width="49%"
+    width="50%"
   />
 </p>
 
@@ -48,7 +48,7 @@
   <img
     src="https://github-readme-stats-ten-kappa-91.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Top Languages"
-    width="100%"
+    width="60%"
   />
 </p>
 
