@@ -25,11 +25,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeByManish45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByManish45&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
+
+---
 
 ---
 
