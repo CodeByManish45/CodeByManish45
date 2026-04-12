@@ -26,11 +26,6 @@
 ---
 
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByManish45&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
 
 ---
 
@@ -40,17 +35,17 @@
 
 <p align="center">
   <img
-    height="170"
+    
     src="https://github-readme-stats-ten-kappa-91.vercel.app/api?username=CodeByManish45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"
     alt="GitHub Stats"
   />
-  
-  <img height="170" src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true&cache_seconds=60&v=1" />
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true&cache_seconds=60&v=1" />
 </p>
 
 <p align="center">
   <img
-    height="170"
+    
     src="https://github-readme-stats-ten-kappa-91.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Top Languages"
   />
