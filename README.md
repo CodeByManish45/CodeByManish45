@@ -13,7 +13,7 @@
 -  Full Stack Developer focused on **MERN Stack**
 -  Building **real-world scalable web applications**
 -  Currently learning **Advanced Backend & System Design**
--  Passionate about **problem solving**, **clean architecture**, and **modern UI**
+-  Passionate about **Problem solving**, **clean architecture**, and **modern UI**
 
 ---
 
