@@ -61,6 +61,7 @@
 - Cart and checkout flow
 - Authentication and order management
 - Admin dashboard
+- Strong Auth System
 
 ### 💎 Jewelry Website
 - Premium UI design
