@@ -10,7 +10,7 @@
 
 ##  About Me
 
--  Full Stack Developer focused on **MERN Stack**
+-  Full Stack Developer focused on **MERN Stack** 
 -  Building **real-world scalable web applications**
 -  Currently learning **Advanced Backend & System Design**
 -  Passionate about **Problem solving**, **clean architecture**, and **modern UI**
