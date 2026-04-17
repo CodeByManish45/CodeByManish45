@@ -1,6 +1,6 @@
 <h1 align="center"> Manish Kumar</h1>
 
-<h3 align="center"> Full Stack Developer | MERN Stack | Scalable Products</h3>
+<h3 align="center"> Full Stack Developer | MERN Stack | Scalable Products</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
