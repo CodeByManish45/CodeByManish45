@@ -2,11 +2,11 @@
 
 # Manish Kumar
 
-### Software Engineer · Full-Stack Development
+### Software Engineer | Full-Stack Developer
 
-Building web applications, solving engineering problems, and getting better at the craft of software development.
+Building web applications, solving problems, and learning something new with every project.
 
-[Portfolio](https://manishdev-com-eta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/manish-kumar-891453327/) · [Email](mailto:manishkumar8084332@gmail.com)
+[Portfolio](https://manishdev-com-eta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/manish-kumar-891453327/) · [GitHub](https://github.com/CodeByManish45) · [Email](mailto:manishkumar8084332@gmail.com)
 
 </div>
 
@@ -14,117 +14,120 @@ Building web applications, solving engineering problems, and getting better at t
 
 ## About Me
 
-I'm Manish Kumar, a Software Engineer at [OceanWaveWeb](https://oceanwaveweb.com/), with 6 months of professional experience in software development.
+I'm Manish Kumar, a Software Engineer at [OceanWaveWeb](https://oceanwaveweb.com/) with 6 months of professional experience.
 
-I work across the frontend and backend, building web application features, integrating APIs, and working with databases. I enjoy understanding how things work behind the scenes and finding practical solutions to engineering problems.
+I enjoy building web applications, developing user interfaces, integrating APIs, and working with databases. I like exploring how things work behind the scenes and finding practical solutions to development problems.
 
-I'm currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning. Alongside my professional work, I'm strengthening my foundations in Java, data structures and algorithms, backend engineering, and system design.
+I'm pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning. Outside my day-to-day work, I'm improving my Java, Data Structures and Algorithms, backend engineering, and system design skills.
 
-I'm early in my career, and my focus is simple: learn consistently, write better code, and become an engineer who understands not just how to build something, but why it works.
+My goal is to keep learning, write maintainable code, and grow into an engineer who can build reliable software from the ground up.
 
-## Experience
+## Professional Experience
 
-### Software Engineer — [OceanWaveWeb](https://oceanwaveweb.com/)
+**Software Engineer — [OceanWaveWeb](https://oceanwaveweb.com/)**
 
-**Current role · 6 months of professional experience**
-
-My work and technical focus include:
+*Current role · 6 months of professional experience*
 
 - Developing and improving web application features.
-- Building responsive interfaces using React and Next.js.
-- Working with backend APIs, application logic, and database integration.
-- Debugging issues and maintaining existing functionality.
-- Using Git and GitHub to manage code changes and collaborate with a team.
+- Building responsive interfaces with React and Next.js.
+- Working with APIs, backend logic, and database integration.
+- Debugging issues and improving application functionality.
+- Using Git and GitHub to manage code and collaborate on development tasks.
 
 ## Tech Stack
 
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=18181B" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=18181B" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 **Frontend Development**
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 **Backend & Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-18181B?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=18181B" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=18181B" alt="Supabase" />
 </p>
 
 **Developer Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## Current Focus
+## Currently Learning
 
-I'm working on improving my fundamentals while gaining practical experience building and maintaining applications.
-
-- **Backend engineering** — API design, authentication, validation, and error handling.
-- **Database engineering** — Data modelling, relationships, and query performance.
-- **Java & DSA** — Programming practice and problem-solving.
-- **System design** — Application architecture, scalability, and technical trade-offs.
-- **Code quality** — Readability, maintainability, debugging, and testing.
-
-## Education
-
-**B.Tech — Computer Science Engineering**
-
-Specialization: Artificial Intelligence & Machine Learning
-
-Currently pursuing my degree alongside professional software development experience.
+- **Java & DSA:** Strengthening programming fundamentals and problem-solving.
+- **Backend Engineering:** Improving API design, authentication, and error handling.
+- **Databases:** Learning data modelling and query optimization.
+- **System Design:** Understanding architecture, scalability, and trade-offs.
+- **Code Quality:** Writing readable, maintainable, and testable code.
 
 ## GitHub Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByManish45&bg_color=ffffff&color=374151&line=2563eb&point=2563eb&area=true&hide_border=true" alt="Manish's GitHub activity graph" />
+### Contribution Graph
 
-<br />
+<a href="https://github.com/CodeByManish45">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByManish45&theme=github-compact&hide_border=true&area=true" alt="Manish Kumar's GitHub Activity Graph" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+### GitHub Statistics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<br />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Programming Languages" />
 
-<img src="https://streak-stats.demolab.com?user=CodeByManish45&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=CodeByManish45&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
-*Stats and activity graphs are provided by external services and may occasionally be unavailable.*
+## Connect With Me
 
-## Let's Connect
-
-I'm happy to connect with developers, exchange ideas, and learn from people building useful things with technology.
+I'm always open to connecting with developers, sharing ideas, and learning from others in the tech community.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-CodeByManish45-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByManish45)
+<a href="https://github.com/CodeByManish45">
+  <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/manish-kumar-891453327/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://manishdev-com-eta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:manishkumar8084332@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-891453327/)
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://manishdev-com-eta.vercel.app/)
+---
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkumar8084332@gmail.com)
+<div align="center">
+
+*Always learning. Always building.*
 
 </div>
