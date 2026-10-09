@@ -1,109 +1,76 @@
-<h1 align="center"> Manish Kumar</h1>
-
-<h3 align="center"> Full Stack Developer | MERN Stack | Scalable Products</h3> 
+<h1 align="center">Manish Kumar</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeByManish45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  Software Engineer · Full-Stack Developer
+</p>
+
+<p align="center">
+  I build web applications with a focus on useful features, clean interfaces, and reliable backend systems.
+</p>
+
+<p align="center">
+  <a href="https://code-by-manish45.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/CodeByManish45">GitHub</a> ·
+  <a href="mailto:manishkumar8084332@gmail.com">Email</a>
 </p>
 
 ---
 
-##  About Me
+## About
 
--  Full Stack Developer focused on **MERN Stack** 
--  Building **real-world scalable web applications**
--  Currently learning **Advanced Backend & System Design**
--  Passionate about **Problem solving**, **clean architecture**, and **modern UI**
+I'm a Computer Science student and full-stack developer interested in building products that solve real problems. Most of my work is with JavaScript and TypeScript across the frontend and backend.
 
----
+I enjoy taking a feature from idea to implementation—from shaping the UI to designing APIs, connecting a database, and getting the application ready to deploy. I'm also strengthening my foundations in data structures, backend engineering, and system design.
 
-## 🛠️ Tech Stack
+- **Currently focused on:** Full-stack development and backend engineering
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Data:** MongoDB, PostgreSQL, Supabase
+- **Learning:** Java, data structures and algorithms, system design
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,redux,git,github,postman,vscode&perline=5" alt="tech stack" />
+## Tech I Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,supabase,git,github,postman,vscode&perline=7" alt="Technologies: JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL, Supabase, Git, GitHub, Postman and VS Code" />
+</p>
+
+## Selected Work
+
+### GramSathi
+A rural services marketplace designed to help people discover local services and manage bookings.
+
+- Location-based service discovery
+- Role-based access and booking workflows
+- **Tech:** TypeScript, React
+
+[Frontend repository](https://github.com/CodeByManish45/GS_Frontend) · [Live demo](https://gramsathi-beige.vercel.app)
+
+### AuditFlow AI
+A project focused on workflows for website auditing and agency operations.
+
+[Repository](https://github.com/CodeByManish45/AuditFlow-AI)
+
+> Some projects are private or still in development. The public repositories and portfolio are the best places to see what I’m building.
+
+## What I'm Working On
+
+- Building and improving full-stack applications
+- Writing clearer, more maintainable backend code
+- Learning data structures, algorithms, and system design
+- Improving testing, performance, and deployment workflows
+
+## GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&hide_border=true" height="165" alt="Most used languages" />
 </p>
 
 ---
 
- ## 📊 GitHub Stats
+I'm always interested in learning from other developers, collaborating on practical projects, and getting better at the craft of software engineering.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-ten-kappa-91.vercel.app/api?username=CodeByManish45&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=CodeByManish45&theme=tokyonight&hide_border=true&cache_seconds=60&v=1"
-    alt="GitHub Streak"
-    width="50%"
-  />
+  <a href="https://code-by-manish45.vercel.app">Portfolio</a> ·
+  <a href="mailto:manishkumar8084332@gmail.com">Get in touch</a>
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-ten-kappa-91.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-    width="60%"
-  />
-</p>
-
----
-
-##  Featured Projects
-
-### 🌾 GramSathi
-- Location-based rural service marketplace
-- Role-based authentication
-- Real-time booking system
-
-### 🛒 E-commerce Platform
-- Cart and checkout flow
-- Authentication and order management
-- Admin dashboard
-- Strong Auth System
-
-### 💎 Jewelry Website
-- Premium UI design
-- Product filtering
-- Responsive layout
-- Admin dashboard
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-891453327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:manishkumar8084332@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-## 🧠 Currently Working On
-
-- 🔥 Production-level full stack projects
-- ⚡ Backend optimization
-- 📦 Real-time features
-
----
-
-## 💡 Goals
-
-- 🚀 Become top Full Stack Developer
-- 💼 Build impactful products
-- 🎯 Land a strong developer role
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByManish45&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-⭐️ From [Manish](https://github.com/CodeByManish45)
