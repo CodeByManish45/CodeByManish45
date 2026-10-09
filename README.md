@@ -45,19 +45,28 @@ I'm pursuing a B.Tech in Computer Science with a specialization in AI & ML. I en
 - Learning system design and database performance.
 - Writing clearer, more maintainable code.
 
-### GitHub
+### GitHub Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByManish45&theme=github" alt="GitHub profile activity summary" />
+<!-- Contribution heatmap / yearly activity -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByManish45&theme=github" alt="Contribution activity overview" />
 
 <br/>
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeByManish45&theme=github" alt="GitHub statistics" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeByManish45&theme=github" alt="Most used languages by commits" />
+<!-- Compact statistic charts -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeByManish45&theme=github" alt="GitHub statistics chart" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeByManish45&theme=github&utcOffset=5.5" alt="Coding activity by time of day" />
 
 <br/>
 
+<!-- Language breakdown charts -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeByManish45&theme=github" alt="Repository language breakdown" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeByManish45&theme=github" alt="Commit language breakdown" />
+
+<br/>
+
+<!-- Contribution streak -->
 <img src="https://streak-stats.demolab.com/?user=CodeByManish45&theme=default&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
