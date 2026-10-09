@@ -87,19 +87,20 @@ My goal is to keep learning, write maintainable code, and grow into an engineer 
 
 ### Contribution Graph
 
-<a href="https://github.com/CodeByManish45">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByManish45&theme=github-compact&hide_border=true&area=true" alt="Manish Kumar's GitHub Activity Graph" />
-</a>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByManish45&theme=github-compact&hide_border=true&area=true)](https://github.com/CodeByManish45)
 
-### GitHub Statistics
+### Profile Overview
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeByManish45&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByManish45&theme=github" alt="GitHub Profile Summary" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByManish45&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Programming Languages" />
+### Language Statistics
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeByManish45&theme=github" alt="Languages by Repository" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeByManish45&theme=github" alt="Most Used Languages in Commits" />
 
 ### Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=CodeByManish45&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=CodeByManish45&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
